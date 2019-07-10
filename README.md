@@ -11,4 +11,4 @@ Working with Asymptotic notations, searching divide and conquer master methods, 
 4.Linear-time selection; graphs, cuts, and the contraction algorithm.
 
 
-![alt text]()
+![alt text](https://github.com/utkarshmaheshwari007/Divide-Conquer-Searching-Algorithms/blob/master/Certificates/Stanford-%20algoritms%20grade.png)
